@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sh4rp1
 - 👀 I’m interested in learming programming languages
-- 🌱 I’m currently learning SQL and ELT 
+- 🌱 Expert in SQL queries and Database administration
+- 🤖 Currently learning Pythom
 
 
 <!---
