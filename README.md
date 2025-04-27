@@ -30,21 +30,6 @@ Microsoft Azure, Oracle Cloud
 
 ---
 
-## 💼 Professional Experience
-
-**Data Engineer/Analyst — DiLytics (09/2023 – Present)**  
-📍 Hyderabad, India  
-
-- Developed advanced **Power BI dashboards** with complex DAX measures for tracking revenue, customer retention, and operational KPIs.
-- Automated data refreshes, achieving **99% database uptime** by resolving frequent errors.
-- Designed and optimized **ETL pipelines** using **ODI** for Financial, Grants, and Procurement insights, significantly improving load times and error handling.
-- Built **Azure Data Factory pipelines** for seamless data migration from on-premises to **Azure Data Lakehouse**.
-- Created **star-schema data models** and **semantic models** for improved query performance by 35%.
-- Engineered end-to-end analytics solutions using **Python (Pandas, NumPy, Faker)** for internal projects like Healthcare Analytics.
-- Integrated and visualized datasets using **Power BI**, **Oracle Analytics Cloud**, and **Fabric Insights**.
-
----
-
 ## 📚 Certifications
 
 - 🎓 Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
