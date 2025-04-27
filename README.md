@@ -51,9 +51,6 @@ Microsoft Azure, Oracle Cloud
   <img src="https://github-readme-stats.vercel.app/api?username=sh4rp1&show_icons=true&theme=tokyonight" alt="sh4rp1's GitHub stats" />
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rp1&layout=compact&theme=tokyonight" /> </p>
-
 ---
 
 ## 🧰 Tech Stack
