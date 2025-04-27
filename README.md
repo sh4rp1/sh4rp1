@@ -1,26 +1,63 @@
 # 👋 Hi, I'm Prashant (@sh4rp1)
 
+---
+
 ## 🚀 About Me
 **Data Analytics/Engineer** with hands-on experience in designing ETL pipelines, building data models, and delivering actionable insights.  
-Skilled in **Microsoft Fabric**, **SQL**, **Python**, **Power BI**, **Tableau**, **Oracle Data Integrator (ODI)**, and **Talend**, with a track record of collaborating with cross-functional teams to optimize business processes and reporting.
+Skilled in **Microsoft Fabric**, **SQL**, **Python**, **Power BI**, **Tableau**, **ODI**, and **Talend**, with a proven track record of collaborating with cross-functional teams to optimize business processes and reporting.
 
 ---
 
-## 🛠️ Skills
-- **Programming Languages**: Python (in progress), SQL (advanced)
-- **Data Engineering**: ETL Design (ODI, Talend), Data Modeling, Pipelines
-- **Data Visualization**: Power BI, Tableau
-- **Cloud & Big Data**: Microsoft Fabric
-- **Databases**: MS SQL Server, MySQL, Oracle DB
-- **Other**: Git, GitHub, APIs, Web Scraping, Data Cleaning
+## 🛠️ Technical Skills
+
+**Visualization/Analytics:**  
+Power BI, Azure Data Factory, Python (Pandas, NumPy), SQL, DAX, Excel, Tableau, Oracle Analytics Cloud (OAC), Oracle Admin Tool
+
+**ETL/Data Engineering:**  
+Microsoft Fabric, Azure Data Factory (ADF), Oracle Data Integrator (ODI), Talend
+
+**Databases:**  
+Azure Data Lakehouse, Oracle, MS SQL Server, MySQL
+
+**Concepts:**  
+ETL/ELT Pipelines, Data Modeling (Star Schema), Data Visualization, Business Intelligence (BI)
+
+**Programming & Query Languages:**  
+SQL (Advanced), Python (In Progress)
+
+**Cloud Platforms:**  
+Microsoft Azure, Oracle Cloud
 
 ---
 
-## 🌱 Currently Focusing On
-- Python for Data Engineering (OOP, File Handling, APIs, Pandas)
-- Building real-world ETL pipelines
-- Automating reporting and dashboards
-- Learning advanced features of Microsoft Fabric and Power BI
+## 💼 Professional Experience
+
+**Data Engineer/Analyst — DiLytics (09/2023 – Present)**  
+📍 Hyderabad, India  
+
+- Developed advanced **Power BI dashboards** with complex DAX measures for tracking revenue, customer retention, and operational KPIs.
+- Automated data refreshes, achieving **99% database uptime** by resolving frequent errors.
+- Designed and optimized **ETL pipelines** using **ODI** for Financial, Grants, and Procurement insights, significantly improving load times and error handling.
+- Built **Azure Data Factory pipelines** for seamless data migration from on-premises to **Azure Data Lakehouse**.
+- Created **star-schema data models** and **semantic models** for improved query performance by 35%.
+- Engineered end-to-end analytics solutions using **Python (Pandas, NumPy, Faker)** for internal projects like Healthcare Analytics.
+- Integrated and visualized datasets using **Power BI**, **Oracle Analytics Cloud**, and **Fabric Insights**.
+
+---
+
+## 📚 Certifications
+
+- 🎓 Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
+- 🛡️ HackerRank Certified: **SQL (Advanced)**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python for Data Engineering (OOP, APIs, Pandas, Web Scraping)
+- ETL Optimization Techniques
+- Microsoft Fabric Real-World Solutions
+- Data Pipeline Automation
 
 ---
 
@@ -31,17 +68,26 @@ Skilled in **Microsoft Fabric**, **SQL**, **Python**, **Power BI**, **Tableau**,
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: prashu7033@gmail.com
-- 💼 LinkedIn:(https://www.linkedin.com/in/prashant-7476b7248
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/ODI-FF6600?style=flat&logo=oracle&logoColor=white" alt="Oracle Data Integrator"/>
+  <img src="https://img.shields.io/badge/Talend-20B2AA?style=flat&logoColor=white" alt="Talend"/>
+</p>
 
 ---
 
-> *"Turning data into insights, and insights into action."* 🚀
+## 📫 Let's Connect!
 
+- 📧 Email: **prashu7033@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/prashant-7476b7248/**
 
+---
 
-<!---
-sh4rp1/sh4rp1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "Turning raw data into real-world insights — one pipeline at a time." 🚀
